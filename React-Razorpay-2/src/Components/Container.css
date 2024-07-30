@@ -1,0 +1,56 @@
+
+.activebox
+{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    height: 78vh;
+    margin-top: 10vh;
+    background-color:#171f2b;
+    position: relative;
+    left: 26vh;
+}
+.activity
+{
+    width: 48vw;;
+    height: 50px;
+  
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+}
+.graphdata
+{
+    
+    height: 50px;
+    width: 50vw;
+    background-color:#171f2b;
+    position: relative;
+    left: 26vh;
+}
+.box-0
+{
+    width: 48vw;;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.compbutton
+{
+    background-color: grey;
+    width: 300px;
+    height: 40px;
+    padding-left:20px;
+    margin-left: 300px;
+}
+.linegraph
+{
+     width: 50vw;
+     height: 3px;
+     background-color: blue;
+     position: relative;
+     top:20px;
+}
